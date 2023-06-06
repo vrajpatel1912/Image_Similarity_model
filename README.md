@@ -1,6 +1,6 @@
 # Image_Similarity_model
 
-This model is trained such a way that it can retrieve the similar images of the query image.
+This model is trained using Convolutional Autoencoders and K-Nearest Neighbours in such a way that it can retrieve the similar images of the query image.
 
 ### Steps :
 First, the **get_features** function takes a directory path as input and loads the images from that directory. It resizes the images to a target size of 256x256 pixels, converts them to arrays, and adds them to a list. The list of image arrays is then returned.
