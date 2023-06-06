@@ -1,4 +1,4 @@
-# Image_Similarity_model
+# Image Similarity Model
 
 This model is trained using Convolutional Autoencoders and K-Nearest Neighbours in such a way that it can retrieve the similar images of the query image.
 
